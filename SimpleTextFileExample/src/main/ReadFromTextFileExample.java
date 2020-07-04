@@ -8,6 +8,11 @@ public class ReadFromTextFileExample {
 
 	public static void main(String[] args) {
 		
+		//1) Reads from file
+		//2) Write To File
+		//   fname, lname, age  <<<<< de la tastatura
+		//   FileWriter + File >>>> salvatile in fisier
+		
 		File file = new File("data/person.txt");
 		
 		try {

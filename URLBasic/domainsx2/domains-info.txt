@@ -1,0 +1,5 @@
+MD Europe/Chisinau AS51954 Simpals SRL
+RU Europe/Moscow AS47764 Mail.Ru LLC
+US America/Denver AS15169 Google LLC
+NL Europe/Amsterdam AS204601 Zomro B.V.
+US America/Los_Angeles AS792 Oracle Corporation
